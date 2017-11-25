@@ -16,6 +16,20 @@ Screenshot:
 
 ![Task#1](https://res.cloudinary.com/hyuwah-github-io/image/upload/c_limit,h_480/v1511609759/photo6111528962749474790_wihfqw.jpg)
 
+## Task#2
+
+Purpose: 
+* Student should be aware of communicating with REST API 
+
+Steps:
+* Use the last existing React native project
+* Use this https://jsonplaceholder.typicode.com/ to create, read, update, and delete posts
+* Push to your github
+
+Preview:
+
+![Task#2](https://res.cloudinary.com/hyuwah-github-io/image/upload/q_auto:good/v1511621401/ezgif-3-3412107c60_pyapza.gif)
+
 # create-react-native-app's Readme
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
