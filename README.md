@@ -1,3 +1,23 @@
+# Refactory Preps App
+
+## Task#1
+
+Purpose: 
+* Student should have their devices ready to develop with React Native 
+
+Steps:
+* Use your dev tools you installed before
+* Create github account
+* Create new Project using react native (Ref: https://facebook.github.io/react-native/docs/getting-started.html#content)
+* Insert your name, profile image, and batch refactory to react native project
+* Push to your github
+
+Screenshot:
+
+![Task#1](https://res.cloudinary.com/hyuwah-github-io/image/upload/c_limit,h_480/v1511609759/photo6111528962749474790_wihfqw.jpg)
+
+# create-react-native-app's Readme
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).

@@ -12,7 +12,7 @@ export default class App extends React.Component {
 
       <View style={styles.root}>
 
-        <ToolbarAndroid title="Refactory Prep Apps" style={styles.toolbar} elevation={3} />
+        <ToolbarAndroid title="Refactory Preps App" style={styles.toolbar} elevation={3} />
 
         <View style={styles.container}>
           <View style={styles.cardProfile} elevation={2} >
